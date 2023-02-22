@@ -581,6 +581,9 @@ address {
     .tm-testimonial-col-2 {
         flex: 50%;
     }
+	    .tm-testimonial-col-3 {
+        flex: 50%;
+    }
 }
 
 @media (max-width: 635px) {
