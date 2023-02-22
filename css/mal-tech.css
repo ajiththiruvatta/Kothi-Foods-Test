@@ -312,8 +312,10 @@ a.tm-paging-link:hover {
     position: relative;
     display: block;
     min-height: 100%;
+    max-width: 150px;
     max-width: 100%;
     opacity: 0.9;
+	background: #F9F9F9;
 }
 
 .tm-gallery-container figure figcaption {
