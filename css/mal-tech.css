@@ -242,7 +242,7 @@ button.mfp-arrow {
 
 .tm-gallery-container {
     position: relative;    
-    max-width: 400px;
+    max-width: 800px;
     margin: 0 -10px;
 	list-style: none;
     text-align: center;
@@ -299,9 +299,9 @@ a.tm-paging-link:hover {
 .tm-gallery-item {
     overflow: hidden;
     margin: 15px 10px;
-    min-width: 180px;
-    max-width: 180px;
-    max-height: 180px;
+    min-width: 90px;
+    max-width: 90px;
+    max-height: 190px;
     width: 25%;
     background: #F9F9F9;
     text-align: center;
