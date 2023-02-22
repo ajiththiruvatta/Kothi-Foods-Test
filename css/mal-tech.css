@@ -299,9 +299,9 @@ a.tm-paging-link:hover {
 .tm-gallery-item {
     overflow: hidden;
     margin: 15px 10px;
-    min-width: 130px;
-    max-width: 130px;
-    max-height: 130px;
+    min-width: 150px;
+    max-width: 150px;
+    max-height: 150px;
     width: 100%;
     background: #F9F9F9;
     text-align: center;
@@ -311,8 +311,8 @@ a.tm-paging-link:hover {
 .tm-gallery-container figure img {
     position: relative;
     display: block;
-    min-height: 70%;
-    max-width: 70%;
+    min-height: 100%;
+    max-width: 100%;
     opacity: 0.9;
 }
 
